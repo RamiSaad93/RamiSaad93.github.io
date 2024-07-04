@@ -78,7 +78,7 @@
     - The project involves analyzing data for a bike-share company with the goals of identifying trends and relationships among various attributes and bike rides. Additionally, it aims to predict ride numbers and minimize bike accidents in the future.
     - Used **Python** for data cleaning and wrangling tasks, utilized **supervised machine learning** techniques for predictive modeling, and leveraged **Tableau** for crafting visualizations and developing interactive **dashboards**.
 
-- <img src="/assetsimage/Divvy-Bike_new_0119_v3.png" width="600" height="400"/>
+<img src="/assetsimage/Divvy-Bike_new_0119_v3.png" width="600" height="400"/>
 
 #### Vanguard A/B Testing Insights [Link](https://github.com/RamiSaad93/A-B-Website-Testing/tree/main)
   - **April 2024**
@@ -86,7 +86,7 @@
     - The purpose of this project was to check which version of the website was more effective by checking a variety of **KPIs**.
     - Utilized **Python** for **data cleaning** and wrangling, applied **Hypothesis Testing** to assess significant differences between versions A and B, and used **Tableau** to craft dashboards and visualize **KPIs**.
 
-- <img src="assetsimage/Screenshot%202024-07-04%20165639.png" width="600" height="400"/>
+<img src="assetsimage/Screenshot%202024-07-04%20165639.png" width="600" height="400"/>
 
 #### Breast Cancer Prediction Model [Link](https://github.com/RamiSaad93/Breast_Cancer_Prediction_Project)
   - **May 2024**
@@ -94,4 +94,4 @@
     - This project aims to address the challenge of identifying the type of the tumors either as malignant or benign using advanced machine learning techniques.
     - Using **Python** for data cleaning and wrangling, and **Machine Learning** to predict the type of the tumor.
 
-- <img src="/assetsimage/Breast-cancer-awareness-ribbon-on-transparent-PNG.png" width="600" height="400"/>
+<img src="/assetsimage/Breast-cancer-awareness-ribbon-on-transparent-PNG.png" width="100" height="100"/>
