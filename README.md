@@ -3,7 +3,7 @@
 ## Education
 
 
-#### Data Analytics Full-time Bootcamp @ IRONHACK [Certificate](https://drive.google.com/file/d/1x186RvQ0nq7tytXOMnKmi3DhmRvjERzm/view?usp=sharing)
+#### Data Analytics Full-time Bootcamp @ IRONHACK (https://drive.google.com/file/d/1x186RvQ0nq7tytXOMnKmi3DhmRvjERzm/view?usp=sharing)
   - **March 2024 - June 2024 (Berlin, Germany)**
     
     - Data Analysis using Python (Pandas, NumPy) & MySQL.
