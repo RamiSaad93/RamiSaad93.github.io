@@ -1,6 +1,6 @@
 # Data Analyst/ Business Analyst
 
-## Education |
+## Education 
 
 
 #### Data Analytics Full-time Bootcamp @ IRONHACK [Certificate](https://drive.google.com/file/d/1x186RvQ0nq7tytXOMnKmi3DhmRvjERzm/view?usp=sharing)
