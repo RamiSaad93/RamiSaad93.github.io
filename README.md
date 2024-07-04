@@ -78,7 +78,7 @@
     - The project involves analyzing data for a bike-share company with the goals of identifying trends and relationships among various attributes and bike rides. Additionally, it aims to predict ride numbers and minimize bike accidents in the future.
     - Used **Python** for data cleaning and wrangling tasks, utilized **supervised machine learning** techniques for predictive modeling, and leveraged **Tableau** for crafting visualizations and developing interactive **dashboards**.
 
-![Divvy Bike Share Company]<img src="/assetsimage/Divvy-Bike_new_0119_v3.png" width="100" height="100"/>
+![Divvy Bike Share Company]<img src="/assetsimage/Divvy-Bike_new_0119_v3.png" width="1000" height="1000"/>
 #### Vanguard A/B Testing Insights [Link](https://github.com/RamiSaad93/A-B-Website-Testing/tree/main)
   - **April 2024**
   
