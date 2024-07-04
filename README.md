@@ -94,4 +94,4 @@
     - This project aims to address the challenge of identifying the type of the tumors either as malignant or benign using advanced machine learning techniques.
     - Using **Python** for data cleaning and wrangling, and **Machine Learning** to predict the type of the tumor.
 
-<img src="/assetsimage/Breast-cancer-awareness-ribbon-on-transparent-PNG.png" width="100" height="100"/>
+<img src="assetsimage/breast-cancer-awareness.jpg" width="300" height="300"/>
