@@ -26,8 +26,10 @@
 #### Project Management Professional (PMP) @ Project Management Institute (PMI) [Certificate](https://drive.google.com/file/d/1stRLpzdLAJE1qW6AStKa5jP5IlqA_waD/view?usp=drive_link)
   - **June 2020 - November 2020**
     
-    - An eight-course program covering essential skills for data analyst roles, including data cleaning, analysis, visualization, and project management.
-    - Gained hands-on experience with tools like spreadsheets, SQL, R, and Tableau, and applied practical knowledge through real-world projects.
+    - Achieved the PMP® certification, underscoring expertise in project management best practices applicable to data-driven projects and initiatives.
+    - Leveraged PMP methodologies to structure, plan, and execute data analysis projects efficiently, ensuring alignment with strategic business goals.
+    - Achieved the PMP® certification, underscoring expertise in project management best practices applicable to data-driven projects and initiatives.
+    - Leveraged PMP methodologies to structure, plan, and execute data analysis projects efficiently, ensuring alignment with strategic business goals.
   
 #### Bachelor of Civil Engineering @Mansoura University Faculty of Engineering [Certificate](https://drive.google.com/file/d/1ZtsIcF9NhXj4h0G_Ceuye7Mcuet2NsvS/view?usp=drive_link)
   - **September 2011 - September 2016 (Mansoura, Egypt)**
@@ -53,7 +55,7 @@
   - **April 2021 - May 2022 (New Capital, Egypt)**
   
     - The New Capital Project in Egypt. Residential units R05.
-    - Achieved Certificate of Achievement for outstanding performance.
+    - Achieved Certificate of Achievement for outstanding performance. [Certificate of Achievement](https://drive.google.com/file/d/1nWcKMbpGjz9FmTctgnhuapxN5yy1rF2H/view?usp=drive_link)
     - Managing site team and subcontractors.
     - Coordination with other service providers.
     - Providing technical advice and solving problems on-site.
@@ -70,19 +72,19 @@
 ## Projects
 
 
-#### Analysis of Bike-Share company in Chicago with Prediction models of the rides and the accidents
+#### Analysis of Bike-Share company in Chicago with Prediction models of the rides and the accidents [Link](https://github.com/RamiSaad93/Final_Project)
   - **June 2024**
   
     - The project involves analyzing data for a bike-share company with the goals of identifying trends and relationships among various attributes and bike rides. Additionally, it aims to predict ride numbers and minimize bike accidents in the future.
     - Used **Python** for data cleaning and wrangling tasks, utilized **supervised machine learning** techniques for predictive modeling, and leveraged **Tableau** for crafting visualizations and developing interactive **dashboards**.
 
-#### Vanguard A/B Testing Insights
+#### Vanguard A/B Testing Insights [Link](https://github.com/RamiSaad93/A-B-Website-Testing/tree/main)
   - **April 2024**
   
     - The purpose of this project was to check which version of the website was more effective by checking a variety of **KPIs**.
     - Utilized **Python** for **data cleaning** and wrangling, applied **Hypothesis Testing** to assess significant differences between versions A and B, and used **Tableau** to craft dashboards and visualize **KPIs**.
 
-#### Breast Cancer Prediction Model
+#### Breast Cancer Prediction Model [Link](https://github.com/RamiSaad93/Breast_Cancer_Prediction_Project)
   - **May 2024**
   
     - This project aims to address the challenge of identifying the type of the tumors either as malignant or benign using advanced machine learning techniques.
