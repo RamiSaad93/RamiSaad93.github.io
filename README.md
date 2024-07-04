@@ -1,6 +1,6 @@
 # Data Analyst/ Business Analyst
 
-# Education
+## Education
 
 
 #### Data Analytics Full-time Bootcamp @IRONHACK
@@ -37,11 +37,18 @@
 - Grade: Good
 
 
-### Work Experiene
+## Work Experiene
 
 
 #### Data Analyst Teacher Assistant @ IRONHACK
 
+- Helping the students of the course achieve their learning goals and develop self-efficiency
+● Provide 1on1 support to resolve any doubts and blockers the students might have
+● Oversee and mentor their work on a daily basis
+● Assist and follow-up with remedial work for struggling and at-risk students
+● Brief and pass knowledge every week to instructional staff
+● Overseeing the whole academic experience
+● Providing feedback of the course weekly to local and global team
 
 
 
