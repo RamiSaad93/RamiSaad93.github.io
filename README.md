@@ -100,8 +100,8 @@
   - **August 2024**
 
     -This song recommendation project aims to provide a simple and effective way to find new music based on user preferences. The recommendation system operates in two main parts:
-        - Popular Songs Recommendation – Recommends a song from the top 100 Billboard hits.
-        - Audio Feature-Based Recommendation – Uses Spotify audio features to recommend songs with similar characteristics.
+      - Popular Songs Recommendation – Recommends a song from the top 100 Billboard hits.
+      - Audio Feature-Based Recommendation – Uses Spotify audio features to recommend songs with similar characteristics.
     - By using a K-means clustering model, the program analyzes over 12,000 songs to create meaningful clusters and suggest songs based on audio similarity.
 
 <img src="assetsimage/pixlr-image-generator-46bfa74c-ab45-41cc-abd1-1c1f90575a84.png" width="400" height="450"/>
