@@ -105,9 +105,9 @@
     - By using a K-means clustering model, the program analyzes over 12,000 songs to create meaningful clusters and suggest songs based on audio similarity.
 
 <img 
+  class="center-image" 
   src="assetsimage/pixlr-image-generator-46bfa74c-ab45-41cc-abd1-1c1f90575a84.png" 
   width="400" 
-  height="450" 
-  style="display: block; margin: 0 auto;"
+  height="450"
 />
 
