@@ -107,7 +107,7 @@
 <img 
   class="center-image" 
   src="assetsimage/pixlr-image-generator-46bfa74c-ab45-41cc-abd1-1c1f90575a84.png" 
-  width="400" 
+  width="450" 
   height="450"
 />
 
