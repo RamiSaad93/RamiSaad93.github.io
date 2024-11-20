@@ -104,4 +104,10 @@
       - Audio Feature-Based Recommendation – Uses Spotify audio features to recommend songs with similar characteristics.
     - By using a K-means clustering model, the program analyzes over 12,000 songs to create meaningful clusters and suggest songs based on audio similarity.
 
-<img src="assetsimage/pixlr-image-generator-46bfa74c-ab45-41cc-abd1-1c1f90575a84.png" width="600" height="550"/>
+<img 
+  src="assetsimage/pixlr-image-generator-46bfa74c-ab45-41cc-abd1-1c1f90575a84.png" 
+  width="400" 
+  height="450" 
+  style="display: block; margin: 0 auto;"
+/>
+
